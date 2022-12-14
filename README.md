@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bazky
-- 👀 I’m interested in Sport | Music | Computer,Sports,Party Games | Net | Technology |
-Programmin | Astronomy | philosophy | Cinema
+- 👀 I’m interested in Sport | Music | Computer,Sports,Party Games | Net | Technology | Crypto | Programmin | Astronomy | philosophy | Cinema
 - 🌱 I’m currently learning HTML + CSS + JAVASCRIPT
 - 💞️ I’m looking to collaborate on NASA
 - 📫 How to reach me 797 210 938 or adriannastal9@gmail.com
